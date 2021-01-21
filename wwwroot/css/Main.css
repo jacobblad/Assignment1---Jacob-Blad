@@ -1,0 +1,23 @@
+﻿body {
+    font-family:'Gill Sans';
+}
+
+label {
+    font-size: 20px;
+    color: aquamarine;
+    width: 150px;
+    display: inline-block;
+}
+
+img {
+    width: 400px;
+}
+
+h1 {
+    color: purple;
+}
+
+p {
+    font-size: 20px;
+    color: royalblue;
+}
